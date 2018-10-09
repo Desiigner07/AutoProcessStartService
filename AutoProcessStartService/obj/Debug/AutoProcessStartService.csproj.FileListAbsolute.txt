@@ -1,0 +1,6 @@
+C:\Users\pohly\source\repos\TradingBot v2\AutoProcessStartService\AutoProcessStartService\AutoProcessStartService\obj\Debug\AutoProcessStartService.csproj.CoreCompileInputs.cache
+C:\Users\pohly\source\repos\TradingBot v2\AutoProcessStartService\AutoProcessStartService\AutoProcessStartService\bin\Debug\AutoProcessStartService.exe.config
+C:\Users\pohly\source\repos\TradingBot v2\AutoProcessStartService\AutoProcessStartService\AutoProcessStartService\bin\Debug\AutoProcessStartService.exe
+C:\Users\pohly\source\repos\TradingBot v2\AutoProcessStartService\AutoProcessStartService\AutoProcessStartService\bin\Debug\AutoProcessStartService.pdb
+C:\Users\pohly\source\repos\TradingBot v2\AutoProcessStartService\AutoProcessStartService\AutoProcessStartService\obj\Debug\AutoProcessStartService.exe
+C:\Users\pohly\source\repos\TradingBot v2\AutoProcessStartService\AutoProcessStartService\AutoProcessStartService\obj\Debug\AutoProcessStartService.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoProcessStartService", "AutoProcessStartService\AutoProcessStartService.csproj", "{7154429D-26FE-4ACF-970A-45474A656C12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7154429D-26FE-4ACF-970A-45474A656C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7154429D-26FE-4ACF-970A-45474A656C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7154429D-26FE-4ACF-970A-45474A656C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7154429D-26FE-4ACF-970A-45474A656C12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {167F0098-261F-4D40-999B-C3328F152906}
+	EndGlobalSection
+EndGlobal
